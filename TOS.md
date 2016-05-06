@@ -1,5 +1,5 @@
 
-#Terms and Conditions of OpenCollective
+Terms and Conditions of OpenCollective
 
 Users of the Services offered by OpenCollective acknowledge and accept these terms and conditions.
 <br Owner of OpenCollective and related Services
